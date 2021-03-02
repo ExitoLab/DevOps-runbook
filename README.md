@@ -5,7 +5,3 @@ This project is for self development. The idea is to have a repository of projec
 
 ### Contributions 
 Please feel free to raise PR
-
-Attempt | #1 | #2 | 
---- | --- | --- | --- 
-Seconds | 301 | 283 |

@@ -4,10 +4,6 @@ This project is for self development. The idea is to have a repository of projec
 
 The following are list of interesting DevOps Projects and solutions
 
-Project | Solution | 
---- | --- | 
-Seconds | 301 
-
 
 | Project                                             | Solution      |
 | --------------------------------------------------- | --------------|
